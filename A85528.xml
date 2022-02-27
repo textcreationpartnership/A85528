@@ -1,0 +1,752 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diall, wherein is contained a remembrance of death, and the uncertainty of the time of death. With many good rules how for to lead a good life.</title>
+            <author>Granger, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85528</idno>
+            <idno type="STC">Wing G1514</idno>
+            <idno type="STC">Thomason E429_8</idno>
+            <idno type="STC">ESTC R202242</idno>
+            <idno type="EEBO-CITATION">99862601</idno>
+            <idno type="PROQUEST">99862601</idno>
+            <idno type="VID">114765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114765)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E429[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diall, wherein is contained a remembrance of death, and the uncertainty of the time of death. With many good rules how for to lead a good life.</title>
+                  <author>Granger, William.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, anno, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"To the reader" signed: William Granger.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "Feb. 27"; the 8 in imprint date crossed out and date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Poetry --  Early works to 1800.</term>
+               <term>Death --  Religious aspects --  Christianity --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114765:1"/>
+            <pb facs="tcp:114765:1" rendition="simple:additions"/>
+            <p>A DIALL, WHEREIN Is contained a remembrance of DEATH, and the uncertainty of the time of DEATH.</p>
+            <p>
+               <hi>With many good Rules how for to lead a good life.</hi>
+            </p>
+            <figure>
+               <figDesc>clock</figDesc>
+               <p>FOR WE MVST</p>
+               <p>YOVTH MIDLE AGE OVLD AGE</p>
+            </figure>
+            <q>
+               <bibl>1 THES. 5. 1.</bibl>
+               <p>Try all things, and keep that which is good.</p>
+            </q>
+            <p>LONDON, <hi>Printed, Anno,</hi> 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114765:2" rendition="simple:additions"/>
+            <pb facs="tcp:114765:2"/>
+            <head>To the <hi>Reader.</hi>
+            </head>
+            <l>KInd Reader I deſire, and wiſh to thee</l>
+            <l>All health and happineſſe, may ever be,</l>
+            <l>This little book which heare I do preſent</l>
+            <l>Is for no ill, but for a good intent,</l>
+            <l>It is a dyall, ſo I have it named</l>
+            <l>According to ſome motions, in it framed</l>
+            <l>Likewiſe unto a garden we may it compare</l>
+            <l>Wherein both flowers and weeds there are</l>
+            <l>To both of theſe, you may it uſe at leaſure</l>
+            <l>As time will ſerve, for you to take your pleaſure,</l>
+            <l>Tis both, to put us all, in mind of death</l>
+            <l>While on the earth God lends us life &amp; breath</l>
+            <l>As in a dyall, is motions of the houres</l>
+            <l>So in this garden is motions of ſweet flowers,</l>
+            <l>As in ſome dyalls, be ſome falſe deeds,</l>
+            <l>So in this garden is ſome bad weeds,</l>
+            <l>All dyalls goes not true, that I do know</l>
+            <l>Some go too faſt, and ſome do go too ſlow</l>
+            <l>But this may prove, to thee a true dyall</l>
+            <l>If thou thereof, do make a true tryall</l>
+            <l>This garden to, though, but a little ground</l>
+            <l>Yet there are here, ſweet flowers to be found,</l>
+            <l>This dyall do thou buy, it is not deare</l>
+            <l>Learn by it how to live, while thou liv'ſt here</l>
+            <l>Though in his centre, thou no tongue diſcern</l>
+            <l>Yet thou by it, may ſome good leſſons learn,</l>
+            <l>
+               <pb facs="tcp:114765:3"/>Prepare for death while thou haſt time and ſpace</l>
+            <l>Aad pray to God, to gvide thee with his grace,</l>
+            <l>Death he will come, though we know not the houre</l>
+            <l>At one, or two, at three, or elſe at foure,</l>
+            <l>Suppoſe he ſtay unto a farther line;</l>
+            <l>Till five, or ſix, to ſeven, eight or nine,</l>
+            <l>But if he ſtay till ten, eleven or twelve</l>
+            <l>Tis high time then for thee a grave to delve,</l>
+            <l>Chuſe this thy ground, do thou not it refuſe</l>
+            <l>And delve therein, tis made for thee to uſe</l>
+            <l>Do thou peruſe it well, and ſpend ſome houres</l>
+            <l>To caſt the weeds out, but preſerve the flowers:</l>
+            <l>Gather ſome flowers, to deck you to your grave.</l>
+            <l>Obſerve this dyall well, and ſo it may</l>
+            <l>Serve for thy uſe, both for the night and day</l>
+            <l>In day time for to read, while it is light</l>
+            <l>And for to meditate on, in the night,</l>
+            <l>God grant us grace, that we may learne hereby</l>
+            <l>In goodneſſe ſtill to grow and multiply.</l>
+            <l>So I deſire thee, for to read it o're,</l>
+            <l>And give to God the praiſe for evermore.</l>
+            <closer>
+               <signed>So I reſt thy loving freind and well willer,<lb/>
+                  <hi>William Granger.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:114765:3"/>
+            <head>A DIALL.</head>
+            <l>GOod Chriſtians all, of whatſoe're degree,</l>
+            <l>Give eare a while, and harken unto me</l>
+            <l>Both old, and young, it doth us all concern</l>
+            <l>The oldeſt he, is not too old to learne</l>
+            <l>We muſt dye all, by ordinance divine</l>
+            <l>How ere ſo high, we muſt at laſt decline</l>
+            <l>Our God he hath ordain'd it to be ſo,</l>
+            <l>Our Grandſire <hi>Adam</hi> brought us to this wo</l>
+            <l>In <hi>Geneſis</hi> the third we may it read<note place="margin">Gen. 2. Gen. 3.</note>
+            </l>
+            <l>The ſequell why, and how it was decreed</l>
+            <l>God pardon me, in plainneſſe to beſtow</l>
+            <l>A little time his wonderous works to ſhew;</l>
+            <l>In <hi>Eden</hi> God, did chuſe a plot of ground,</l>
+            <l>And planted fruitfull trees about it round</l>
+            <l>Fruits of all ſorts, herbs of all ſorts likewiſe</l>
+            <l>And made it be a pleaſant Paradice,</l>
+            <l>And in that place; there water was enough</l>
+            <l>For pleaſant ſtrames, did run, this garden through</l>
+            <l>In midſt of this faire garden, God even he</l>
+            <l>Did place the tree of knowledge for to be</l>
+            <l>This pleaſant place, abundantly expelling</l>
+            <l>God gave to <hi>Adam</hi> for to be his dwelling</l>
+            <l>God of the earth, a little time before</l>
+            <l>Did make him there, to rule all creatures o're,</l>
+            <l>Then made he <hi>Adam</hi> a heavy ſleep to bide</l>
+            <l>While he a rib did take out of his ſide,</l>
+            <l>And made a woman his helper for to be,</l>
+            <l>The caſe was altered ſoon, from that we ſee</l>
+            <l>Then God did ſay to him, of all the trees that be</l>
+            <l>Within this garden ſet, and plac'd by me</l>
+            <l>Take thou the fruit thereof, and freely eat</l>
+            <l>I give them thee, they ſhalbe for thy meat</l>
+            <l>
+               <pb facs="tcp:114765:4"/>But of the tree, in midſt this garden great</l>
+            <l>I do comand thee, that thou ſhalt not eat</l>
+            <l>For this I ſay to thee aſſuredly</l>
+            <l>If thou do'ſt eat thereof thou ſure ſhalt dye,</l>
+            <l>Then <hi>Satan</hi> he, envying <hi>Adams</hi> ſtate</l>
+            <l>Began unto, himſelfe thus to relate,</l>
+            <l>Shall man poſſeſſe, that place of high renown,</l>
+            <l>That glorious place, from whence I am caſt down</l>
+            <l>O! no I ſay, I will away deviſe,</l>
+            <l>He ſhall not to that bleſſed place ariſe</l>
+            <l>Though he be bleſſed now, he ſhall accurſed be,</l>
+            <l>And ſo I'le overthrow his Majeſty,</l>
+            <l>But he no way could finde to make the man be curſt,</l>
+            <l>But by enticing of the woman firſt;</l>
+            <l>Then did he take on him the Serpents ſhape,</l>
+            <l>And thought by this device man ſhould not ſcape;</l>
+            <l>He preſently got up without delay,</l>
+            <l>Into the Tree, and thus to <hi>Eve</hi> did ſay,</l>
+            <l>Woman, quoth he, what is your charge ſo great,</l>
+            <l>Of all the fruits that's here you may not eat?</l>
+            <l>We eat ſaid ſhee of all that here doe grow,</l>
+            <l>He that hath made us doth the ſame allow,</l>
+            <l>But of the Tree amidſt this Garden great,</l>
+            <l>He hath commanded that we ſhall not eat,</l>
+            <l>And if we eat thereof we ſure ſhall dye:</l>
+            <l>The ſubtill Serpent then made this reply;</l>
+            <l>No no, ſaid he, you ſhall not dye at all,</l>
+            <l>You are unwiſe to keepe your ſelves in thrall,</l>
+            <l>Your Maker knows that when thereof you eat,</l>
+            <l>You ſhall be like to God in knowledge great,</l>
+            <l>You then ſhall underſtand both good and ill,</l>
+            <l>For this ſame cauſe hee'l keepe you from it ſtill,</l>
+            <l>But how can you forbeare this fruit ſo fair?</l>
+            <l>Why is it kept from ſuch a loving paire?</l>
+            <l>He pluckt an apple then, and gave it unto <hi>Eve,</hi>
+            </l>
+            <l>She ſaw it faire, did gladly it receive,</l>
+            <l>When ſhe did taſte, and found it ſavoury meat,</l>
+            <l>She gave to <hi>Adam</hi> one and he did eat:</l>
+            <l>
+               <pb facs="tcp:114765:4"/>Then opened were their eyes, Immediately</l>
+            <l>And they aſhamed were, their nakedneſſe to ſpy</l>
+            <l>God knowing this, in cool of day came down</l>
+            <l>And in the garden thus, his voice did ſound</l>
+            <l>
+               <hi>Adam</hi> where art, then they durſt not abide,</l>
+            <l>But ran among the trees themſelves to hide;</l>
+            <l>At laſt poore <hi>Adam</hi> ſpake, and thus he ſaid.</l>
+            <l>We hard thy voyce, and therefore were affraid.</l>
+            <l>Becauſe that both, of us now naked be</l>
+            <l>And art thou naked now, who told it thee</l>
+            <l>Haſt thou now eaten, of the forbidden tree</l>
+            <l>Said he, The woman that thou didſt me give</l>
+            <l>She gave it me, and I did it receive,</l>
+            <l>Then unto <hi>Eve,</hi> God did theſe words expreſſe</l>
+            <l>Why haſt thou cauſed, thy husband to tranſgreſſe,</l>
+            <l>Said ſhe, the Serpent, he enticed me</l>
+            <l>And made me doe this great offence to thee</l>
+            <l>So every one of us, our ſinnes do ſmother</l>
+            <l>And put it from our ſelves, unto ſome other</l>
+            <l>Then God unto, the Serpent preſently</l>
+            <l>Did ſay theſe words, which I doe now deſcry</l>
+            <l>Thou Serpent vile, which by thy ſubtilty</l>
+            <l>Seduced have this woman againſt me</l>
+            <l>And cauſed her ſo, her husband to betray</l>
+            <l>And my Commandement, ſo to diſobay</l>
+            <l>I will torment thee, with continuall wo</l>
+            <l>Upon thy belly, thou ſhalt ever go,</l>
+            <l>Duſt of the earth, ſhalbe thy daily meat</l>
+            <l>The very vileſt of it thou ſhalt eat</l>
+            <l>Between the womans ſeed, and thine and thee</l>
+            <l>For evermore, there ſhall contention be,<note place="margin">Gen. 15.</note>
+            </l>
+            <l>Her ſeed ſhall break thy head, thine bruiſe his heel</l>
+            <l>Theſe torments thou, for evermore ſhall feel</l>
+            <l>And woman then, which by enticement haſt</l>
+            <l>Thy husband from, his happineſſe down caſt</l>
+            <l>By which thou haſt, undone, both him and thee</l>
+            <l>And made you both, vile bondſlaves for to be,</l>
+            <l>
+               <pb facs="tcp:114765:5"/>For this thy breaking my Commandement,</l>
+            <l>Thou ſhalt receive from me this puniſhment,</l>
+            <l>I'le puniſh thee in thy conceptions,</l>
+            <l>Becauſe of this, thy ſore tranſgreſſions;</l>
+            <l>And for thou haſt not lived in my feare,</l>
+            <l>With pain and ſorrow thou ſhalt children beare</l>
+            <l>Unto thy husband, thy deſire ſhall be,</l>
+            <l>And he ſhall ſtill have power and rule o're thee:</l>
+            <l>And <hi>Adam,</hi> thou that didſt not ſtand in fear</l>
+            <l>Of me thy God, but to thy wife gave eare,</l>
+            <l>I will no more ſo carefull be upon thee,</l>
+            <l>But I pronounce this ſentence to be on thee:</l>
+            <l>For that you have been to me ſo unjuſt,</l>
+            <l>Out of this Garden now I will you thruſt,</l>
+            <l>Now thou mayſt ſay thou art of me forſaken,</l>
+            <l>Go dig the ground, from whence thou firſt waſt taken:</l>
+            <l>Thou art but earth, therein go take ſome pains,<note place="margin">Gen. 3. 19.</note>
+            </l>
+            <l>For unto earth thouſhalt returne again,</l>
+            <l>You both ſhall die, as you doe well deſerve,</l>
+            <l>But when, I will unto my ſelfe reſerve,</l>
+            <l>Becauſe you have liv'd ſo rebelliouſly,</l>
+            <l>You both ſhall dye, and your poſterity:</l>
+            <l>The earth alſo ſhall Thiſtles beare, and Thornes,</l>
+            <l>And thou ſhalt ſuffer many grievous ſtormes,</l>
+            <l>With ſweat of brows thou now muſt get thy meat,</l>
+            <l>Thou muſt not idle be if thou wilt eat:</l>
+            <l>So I have done, now I have paſt my doom,</l>
+            <l>Learn to live better now before death come.</l>
+            <l>Thus God did curſe what he before did make,<note place="margin">Gen. 3. 18.</note>
+            </l>
+            <l>He curſt the very earth for <hi>Adams</hi> ſake,</l>
+            <l>His diſobedience made him have this curſe,</l>
+            <l>And we his off-ſpring all doe fare the worſe,</l>
+            <l>For of our father <hi>Adams</hi> grievous ſin,</l>
+            <l>We, as his heirs, have all our ſhares therein,</l>
+            <l>And thus was <hi>Adams</hi> ſin our great downfall,</l>
+            <l>Therefore remember death, <hi>We muſt dyall:</hi>
+            </l>
+            <l>But here a comfort doth again ariſe,</l>
+            <l>Which ſubtill Satan never did ſurmiſe,</l>
+            <l>
+               <pb facs="tcp:114765:5"/>Though we were curſed by the womans deed,</l>
+            <l>We now are bleſt again by a womans ſeed,</l>
+            <l>As in the Scripture we may daily read,</l>
+            <l>The womans ſeed ſhould break the ſerpents head,</l>
+            <l>Our Jeſus Chriſt both God and man was he,</l>
+            <l>Came to this world our Saviour for to be;</l>
+            <l>Our Jeſus Chriſt he hath our ranſome paid,</l>
+            <l>For on his ſhoulders all our ſins was laid,<note place="margin">Eſay 53. 4. 1 Pet. 2. 24. Matth. 8. 17.</note>
+            </l>
+            <l>He offered up himſelfe a ſacrifice for ſin,</l>
+            <l>For to redeeme us from the bondage we were in,</l>
+            <l>Thoſe that believe in him by a true faith,</l>
+            <l>They ſhall be ſaved as the Scripture ſaith,</l>
+            <l>But 'tis ordain'd that once we muſt dy all,<note place="margin">Heb. 9. 27.</note>
+            </l>
+            <l>And yeild our life to death when he doth call,</l>
+            <l>And death at Gods command doth ſtill atend</l>
+            <l>To bring each mortall wight unto his end,</l>
+            <l>Death is Gods Herrald, when command is given</l>
+            <l>To goe to all the Nations under heaven,</l>
+            <l>For to arreſt and take into his power,</l>
+            <l>Some people therein every day and houre;</l>
+            <l>The greateſt King cannot deaths power withſtand,</l>
+            <l>When he comes with the King of Kings command,</l>
+            <l>No age can ſcape from cradle to the crutch,</l>
+            <l>No ſex can keepe them from his fatall touch;</l>
+            <l>Kings and beggars to death are all alike,</l>
+            <l>There's none at all can ſay Death dares not ſtrike,</l>
+            <l>But there's a time for all things under Sun,</l>
+            <l>Time hath been ever ſince the world begun,</l>
+            <l>A time for to be borne, a time to dye,</l>
+            <l>The wiſeman ſaith, and none can it deny.</l>
+            <l>In time was <hi>Adam</hi> made in Gods image,</l>
+            <l>In a ſhort time he loſt his heritage,</l>
+            <l>And infulneſſe of time God ſent his Son<note place="margin">Gal. 4. 4.</note>
+            </l>
+            <l>For to redeeme us that were all undone,</l>
+            <l>Death taketh time unto him as a brother,</l>
+            <l>To go with him and follow on another;</l>
+            <l>Time with his ſythe, Death with his diſmall dart,</l>
+            <l>Theſe two between them both the world doth part.</l>
+            <l>
+               <pb facs="tcp:114765:6"/>Time he hath wings, a ſpeedy pace to hie</l>
+            <l>And death can run as faſt as time can fly,</l>
+            <l>Time takes our lives, and poſt to death doth run</l>
+            <l>Death meets with time, and ſo our lives are done</l>
+            <l>How carefull ought, we be, our lives to mend</l>
+            <l>Since two ſuch watch-men, do on us attend,</l>
+            <l>Time he doth number all, our houres and days</l>
+            <l>And death doth watch, to catch us on our ways,</l>
+            <l>We muſt dy all, and yeild to death his due,</l>
+            <l>Though we know not the time, nor place, nor how.</l>
+            <l>Death he hath weapons more, beſides his dart,</l>
+            <l>He hath more ways then one to kill the heart:</l>
+            <l>Some in the ſeas and brooks, are daily drownd</l>
+            <l>Some in the fires, are utterly conſum'd,</l>
+            <l>Some are by powder all to peices torn,</l>
+            <l>Some have their lives, in deſerts overworn;</l>
+            <l>Some there are daily, killed with the ſword</l>
+            <l>Some dy a death, that moſt they have abroad</l>
+            <l>Some hath by poyſon got a deadly ſtroke.</l>
+            <l>Some in their drink, a ſilly flie doth choake</l>
+            <l>Some dy of ſurfets, eating too much meat,</l>
+            <l>Some dy by famine having nought to eat,</l>
+            <l>Some conquering Captains, fighting in the field</l>
+            <l>Death conquers them, and makes them for to yeild,</l>
+            <l>To ſtrike old age in bed, death doth not ſcorne</l>
+            <l>Nor doth he ſpare, the infants thats new borne</l>
+            <l>Thou canſt not paſſe, no time a long the ſtreet.</l>
+            <l>To be aſſured no danger for to meet</l>
+            <l>Some wood or ſtone, may fall upon thy head</l>
+            <l>Down from church or houſe and ſtrike thee dead,</l>
+            <l>Be carefull then, to be as thou ſhouldſt be</l>
+            <l>Sith death ſo many wayes, may come to thee</l>
+            <l>Repent in time, and do thy life amend.</l>
+            <l>Before that death do come, thy life to end,</l>
+            <l>Be thou for death, all times, prepared be,</l>
+            <l>That ſudaine death, may never come to thee</l>
+            <l>Unto the wicked death doth come with terrour,<note place="margin">Proverbs 28. 1.</note>
+            </l>
+            <l>For of his coming, he is ſtill a fevour,</l>
+            <l>
+               <pb facs="tcp:114765:6"/>But to the godly, death is welcome ever,</l>
+            <l>He doth acknowledge God, of his life the giver</l>
+            <l>And that he muſt, returne it back againe</l>
+            <l>To him from whom, he did it firſt obtaine</l>
+            <l>Death he will come, though we know not how ſoon.<note place="margin">Luke 12. 40.</note>
+            </l>
+            <l>In midſt of night, in morning or at noon,</l>
+            <l>In the ſpring time, or elſe upon the fall.</l>
+            <l>But ſure enough it is, we muſt dye all</l>
+            <l>Although that Chriſt for all our ſinnes did dye,</l>
+            <l>Yet we muſt carefull be, from ſin to fly,</l>
+            <l>For ſin within us ſtill there doth remain,</l>
+            <l>O let it not within thee rule and reigne,</l>
+            <l>Be carefull then, thy God to ſerve and feare</l>
+            <l>And patient be affl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions to beare</l>
+            <l>Lead a good life, an evill life abhorre<note place="margin">Rom. 12. 9.</note>
+            </l>
+            <l>That thou mayſt live with Chriſt, for evermore</l>
+            <l>Live well and dye well, that proverb is true</l>
+            <l>But few in theſe days, that will do ſo now,</l>
+            <l>Some that would dye well, there were and there is</l>
+            <l>But yet they have lead, their lives for a mis<note place="margin">Numb. 23.</note>
+            </l>
+            <l>
+               <hi>Balam</hi> deſir'd the righteous death to dye<note place="margin">Mark 14. John 18. 10.</note>
+            </l>
+            <l>Although he lived not righteouſly</l>
+            <l>
+               <hi>Judas</hi> that traytor, did not ſo in either</l>
+            <l>He did not live well, nor dyed well neither</l>
+            <l>Lets pray to God, to grant to us his grace</l>
+            <l>To keepe us all, from ſuch a deſperate caſe</l>
+            <l>Live thou a righteous life holy and pure</l>
+            <l>And thou ſhall dye, a righteous death be ſure</l>
+            <l>There is a rule by Gods commandement</l>
+            <l>To teach thee how to live, and not be ſhent<note place="margin">Exod. 20.</note>
+            </l>
+            <l>Gods ten comands that he to us hath given</l>
+            <l>To be our guide, to lead us into heaven,</l>
+            <l>God be my guide, me to direct a right</l>
+            <l>For to explaine them, as I doe recite.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>1</label> Thou ſhalt have no other gods but me.</l>
+            <l>There is but one, and I am only he</l>
+            <l>That brought thee out, from Pharoes cruell hand</l>
+            <l>Where thou in bondage waſt in Egypt land</l>
+            <l>I am that God, that can condemne and ſave</l>
+            <l>And therefore thou, no other ſhalt have</l>
+            <l>
+               <pb facs="tcp:114765:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>2</label> Thou ſhalt to thee, no graven image make</l>
+            <l>Thereby Gods honour, from him for to take</l>
+            <l>Likeneſſe of anything, in heaven above</l>
+            <l>Or in the earth below, to like or love</l>
+            <l>Fowls of the aire, or fiſhes in the ſea,</l>
+            <l>An Image ſhalt thou make, of none of theſe</l>
+            <l>I ſay thou ſhalt, no image make at all</l>
+            <l>To bow to it, or down before it fall</l>
+            <l>Of any kind of met all, wood or ſtone.</l>
+            <l>All worſhip doth belong, to God alone</l>
+            <l>The Lord thy God, he is a jealous God</l>
+            <l>And he will viſit daily with his rod</l>
+            <l>The fathers ſinnes, upon their children here</l>
+            <l>That do him hate, whom they ſhould love and feare</l>
+            <l>Unto the third, and fourth generation</l>
+            <l>All thoſe that live in any land or nation</l>
+            <l>But unto thouſands, mercy ſhew he will</l>
+            <l>Of thoſe that his commands, keepe and fulfill.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>3</label> Thou ſhalt not take Gods holy name in vaine</l>
+            <l>Thy mind to pleaſe, or cauſe for to maintaine</l>
+            <l>In any caſe, do not blaſpheme his name</l>
+            <l>That gave thee breath and did thy body frame</l>
+            <l>He that to take his name in vaine is bold,</l>
+            <l>The Lord hath ſaid, he will not guiltleſs hold.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>4</label> Remember that, the Lords Day thou keepe holy</l>
+            <l>Abuſe it not, by any kind of folly</l>
+            <l>Six dayes thou labour ſhalt, and do what longs thee to,</l>
+            <l>And keep the Sabbath, as thou oughtſt to do:</l>
+            <l>For in ſix dayes, the Lord did all things make</l>
+            <l>And on the ſeventh, he his reſt did take,</l>
+            <l>In it I ſay, thou ſhalt not work at all,</l>
+            <l>Thou nor thy ſervant, nor Ox within thy ſtall</l>
+            <l>God bleſt, the Sabbath day, and hallowed it:</l>
+            <l>Therefore look that no work thou do in it.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>5</label> Honour thy father, and thy mother to,</l>
+            <l>And do them reverence, as thou oughtſt to do,</l>
+            <l>That thou long days and good on earth may live</l>
+            <l>In any place that God ſhall to thee give:<note place="margin">Mat. 15. 4.</note>
+            </l>
+            <l>He that his father, or his mother curſe,</l>
+            <l>His days on earth ſhall fewer be and worſe.</l>
+            <l>
+               <pb facs="tcp:114765:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>6</label> Thou ſhalt not any kind of murther uſe</l>
+            <l>In any caſe, thy brother to abuſe</l>
+            <l>By this word murther we muſt underſtand</l>
+            <l>Some other miſcheifes, uſed in our land</l>
+            <l>As envy, hatred, malice, and the like</l>
+            <l>And wicked ſlander, that mans life doth ſeeke</l>
+            <l>He that his neighbour, doth ſlander and defame</l>
+            <l>As good were take his life, as his good name</l>
+            <l>A good name is a good mans chiefe delight,</l>
+            <l>And highly is eſteem'd in good mens ſight.<note place="margin">Prov. 22. 1.</note>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>7</label> Thou ſhalt not commit Adultery,</l>
+            <l>Nor any other kind, of lechery</l>
+            <l>Of <hi>Sodoms</hi> odious ſinnes, do thou beware</l>
+            <l>To keep thy body chaſte and pure have care,</l>
+            <l>After a woman ſee thou do not luſt.</l>
+            <l>For if thou do, thy heart it is unjuſt,</l>
+            <l>If thou doſt ſo, I tell thee for thy part</l>
+            <l>Adultery thou doſt commit in heart.<note place="margin">Matth. 5. 8, 28.</note>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>8</label> Thou ſhalt ſteale, looke that thou do not ſo</l>
+            <l>Leſt it doth chance, to turne unto thy wo</l>
+            <l>In dealing falſly, do thou not delight</l>
+            <l>Remember ſtill, that thou art in Gods ſight<note place="margin">Jer. 23. 23, 24. Levit. 19. 36.</note>
+            </l>
+            <l>Weights too light, or meaſures which be ſmall</l>
+            <l>Do thou not uſe, leſt thou in danger fall.</l>
+            <l>Deceit is ſtealing, in a kind of way</l>
+            <l>Which thou ſhalt anſwer for another day.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>9</label> Thou ſhalt falſe witneſſe againſt no man beare,</l>
+            <l>But for the truth ſtand up, and do not fear;</l>
+            <l>Do thou have God at all times in thy minde,</l>
+            <l>And take no bribes leſt they do make thee blinde.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">commandment </seg>10</label> 
+               <hi>Thou ſhalt not covet thy neighbours houſe or land,</hi>
+            </l>
+            <l>
+               <hi>His wife or ſervants that be at his command,</hi>
+            </l>
+            <l>
+               <hi>His Oxe, his Aſſe, nor anything that's his,</hi>
+            </l>
+            <l>
+               <hi>If ſo thou doe, be ſure thou doſt amiſs:</hi>
+            </l>
+            <l>Thinke how King <hi>Ahab</hi> and Queen <hi>Jezabel</hi>
+               <note place="margin">1 Kings 21. 13.</note>
+            </l>
+            <l>Againſt this laſt commandment did rebel,</l>
+            <l>
+               <hi>Ahab</hi> did covet, and <hi>Naboth's</hi> Vineyard crave,</l>
+            <l>
+               <hi>Naboth</hi> deny'd what <hi>Ahab</hi> fain would have,</l>
+            <l>Then <hi>Jezabel</hi> falſe witneſſes did bring</l>
+            <l>To ſwear that <hi>Naboth</hi> had blaſphem'd God and the King,</l>
+            <l>
+               <pb facs="tcp:114765:8"/>For that good <hi>Naboth</hi> he was ſton'd to death,</l>
+            <l>And with his Vineyard he did loſe his breath:</l>
+            <l>What puniſhment they had the proofe is plain,</l>
+            <l>The dogs did eat her fleſh, and he was ſlain:</l>
+            <l>And now the ten Comandments I have rehearſt,</l>
+            <l>Some other things I have to be rehearſt;</l>
+            <l>Pride doe thou ſhun, in any kinde of caſe,</l>
+            <l>Decent apparell is a comely grace,</l>
+            <l>But above all, be thou not proud in heart,<note place="margin">Prov. 16. 5, 12, 18.</note>
+            </l>
+            <l>I give thee counſell whoſoere thou art:</l>
+            <l>Remember this before it be too late,</l>
+            <l>The proud in hea<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Lord thy God doth hate,<note place="margin">1 Pet. 5. 5.</note>
+            </l>
+            <l>Be humble minded then, and meeke in heart</l>
+            <l>And God will love thee then, if ſo thou art,</l>
+            <l>God will exalt the humble and the meeke,<note place="margin">Matth. 23. 12.</note>
+            </l>
+            <l>But the proud heart he will in peeces breake,</l>
+            <l>
+               <hi>Nabuchadnezar</hi> that mighty King,<note place="margin">Dan. 4. 30.</note>
+            </l>
+            <l>His pride of heart did him great damage bring,</l>
+            <l>For God out of his Throne did down him caſt,</l>
+            <l>Among the beaſts to feed till ſeven years paſt.</l>
+            <l>Of Gluttony likewiſe do thou take heed,</l>
+            <l>Eat not too much, give ſome to them that need,</l>
+            <l>Rich <hi>Dives</hi> he did feed on dainty fair,<note place="margin">Luke 16. 19.</note>
+            </l>
+            <l>But to poore <hi>Lazarus,</hi> no crums would ſpare,</l>
+            <l>What came to him after his dainty faire?</l>
+            <l>He is in durance now where all vile torments are,</l>
+            <l>Vile drunkenneſſe do thou in no wiſe uſe,</l>
+            <l>Drinke not too much thy ſelfe for to abuſe,</l>
+            <l>For drinking much may make thee for to want,</l>
+            <l>And ſo may death come to thee juſt upon't,</l>
+            <l>When <hi>Holifernes</hi> had drunke of wine his fill,<note place="margin">Judith 13. 8.</note>
+            </l>
+            <l>His head was quite cut off by <hi>Judith's</hi> skill,</l>
+            <l>It was Gods will for his own peoples ſake,</l>
+            <l>In their revenge that ſhe this way did take:</l>
+            <l>
+               <hi>Noah</hi> cruſht his grapes, and too much of the ſame<note place="margin">Gen 9. 21.</note>
+            </l>
+            <l>Did make him drunk, and ſo he ſhew'd his ſhame,</l>
+            <l>This is no pattern left for thee to follow,</l>
+            <l>If thou thinke ſo, thy wit is very ſhallow.</l>
+            <l>Some of Gods choſen have great ſins committed,<note place="margin">2 Sam. 11. 4.</note>
+            </l>
+            <l>And by repentance they have been acquitted;</l>
+            <l>
+               <pb facs="tcp:114765:8"/>Then let this be unto thy minde to call,<note place="margin">Mat. 26. 74, 75.</note>
+            </l>
+            <l>That Gods dear children may at ſomtimes fall,</l>
+            <l>Not totally, but they may riſe again,</l>
+            <l>And live with Chriſt above where he doth reign.</l>
+            <l>Envie no man, though he hath done thee wrong,</l>
+            <l>Take not from God what to him doth belong,</l>
+            <l>For we may read that God himſelfe doth ſay it,</l>
+            <l>
+               <hi>Vengeance is mine, I will my ſelfe repay it,</hi>
+            </l>
+            <l>For envie <hi>Cain</hi> did kill <hi>Abel</hi> his brother,<note place="margin">Rom. 12. 19. Gen. 4. 8.</note>
+            </l>
+            <l>So by envie now doe we kill one another:</l>
+            <l>Hatred it is abominable thing</l>
+            <l>Againſt our God that is heavens great King;</l>
+            <l>For hatred <hi>Jacobs</hi> ſons did <hi>Joſeph</hi> ſell,<note place="margin">Gen. 37. 28.</note>
+            </l>
+            <l>Which God did turn to good, though they did ill,</l>
+            <l>For <hi>Jacobs</hi> ſake it needs muſt be confeſt,</l>
+            <l>Unto Gods choſen all is for the beſt;</l>
+            <l>
+               <hi>Joſeph</hi> in <hi>Pharoahs</hi> houſe ſo well did ſpeed,</l>
+            <l>That he his fathers houſe did helpe at need;</l>
+            <l>God hath commanded that we ſhould not hate,</l>
+            <l>But now we daily do it imitate,</l>
+            <l>To malice be thou not at all enclin'd,</l>
+            <l>It is much like to hatred his kinde,</l>
+            <l>And therefore for't I ſay no more but thus,</l>
+            <l>From all thoſe ſins the Lord deliverus.</l>
+            <l>To covetouſneſſe I now am come again,</l>
+            <l>A little farther for to make it plain,</l>
+            <l>What wretched man art thou that with annoy</l>
+            <l>Doſt covet wealth thou canſt not long enjoy?</l>
+            <l>Thinke thou what God did to the rich man ſay,</l>
+            <l>When he had made large barnes his goods to lay,</l>
+            <l>Thou fool this night thy ſoule ſhall taken be,<note place="margin">Luke 12. 20.</note>
+            </l>
+            <l>Then who ſhall have thoſe goods laid up by thee?</l>
+            <l>If thou haſt riches, ſet not thy heart thereon,</l>
+            <l>Thou doeſt not know how ſoon they may be gone;</l>
+            <l>Say thou not unto thy ſelfe that thou doeſt ow them,</l>
+            <l>They are but lent thee well for to beſtow them;</l>
+            <l>Thou art a Steward, God lends thee them to uſe</l>
+            <l>Unto his glory, not for thee to abuſe,</l>
+            <l>Do thou beſtow them well, that ſo thou may</l>
+            <l>Give up a good account at the laſt day,</l>
+            <l>
+               <pb facs="tcp:114765:9"/>Give to the poore that at thy doore do cry,</l>
+            <l>Cloath thou the naked that in ſtreet do ly,</l>
+            <l>Comfort the widdows that are in diſtreſſe,</l>
+            <l>Relieve the children that be fatherleſſe,</l>
+            <l>Viſit the ſick that are almoſt ſpent,</l>
+            <l>And thoſe in priſon that have long been pent;</l>
+            <l>Lay not thy treaſure on earth for to enjoy them,<note place="margin">Matth. 6. 19.</note>
+            </l>
+            <l>For there be many wayes for to deſtroy them,</l>
+            <l>But lay them up in heaven for to be</l>
+            <l>Where they may prove a great eſtate for thee,</l>
+            <l>For there no evill comes for to deſtroy it,</l>
+            <l>But at the laſt thou ſafely ſhalt enjoy it,</l>
+            <l>All this if thou doeſt ſo God will thee bleſſe,</l>
+            <l>And thou at laſt a Kingdom ſhalt poſſeſſe;</l>
+            <l>When any worke thou undertak'ſt in hand,</l>
+            <l>Remember ſtill thou art at Gods command,</l>
+            <l>And when thy worke unto good end is brought,</l>
+            <l>Doe thou not brag that thou thy ſelf it wrought,<note place="margin">1 Cor. 4. 7.</note>
+            </l>
+            <l>But give the praiſe and glory unto God,</l>
+            <l>Leſt he doe croſſe thee with ſome kinde of rod:</l>
+            <l>When any journey thou doſt mean to make,</l>
+            <l>Pray unto God that he may undertake</l>
+            <l>To be thy guide, and to direct thy way,</l>
+            <l>That thou mayſt come to heaven at the laſt day,</l>
+            <l>Obſerve all theſe good rules and do them keep,</l>
+            <l>And bleſſed ſhalt thou be whether thou wake or ſleep;</l>
+            <l>Thou ſhalt be bleſſed whatſoere befall,</l>
+            <l>Yea treble bleſt when death thy life doth call.</l>
+            <l>Now to conclude, this work is at an end,</l>
+            <l>God grant us grace our lives for to amend,</l>
+            <l>And thou kinde Reader that haſt read it o're,</l>
+            <l>Though it be weak, do thou not it abhor,</l>
+            <l>The matter it is good, though not the writing,</l>
+            <l>The meaning is as good, not the inditing.</l>
+            <l>Let not a little fault in thee diſliking move,</l>
+            <l>But take it as it is, 'tis done in love;</l>
+            <l>Let him that in it ſeeth not any ill.</l>
+            <l>Forgive the fault, and mend it when he will;</l>
+            <l>Full foute ſcore years and three the Author is,</l>
+            <l>A younger man may doe ſome things amiſs.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
